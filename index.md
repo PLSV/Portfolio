@@ -2,25 +2,25 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
 # My Artificial Intelligence / Machine Learning Portfolio
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This page contains the my personal ventures in the field of Machine Learning, and Artificial Intelligence. Currently, I am undergoing a Executive Post Graduate Program course in Machine Learning and Artificial Intelligence and I will be posting the work that I have done here from time to time.
 
-## Header 2
+<!-- ## Exploratory Data Analysis
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+## Header 3
 
 ```js
 // Javascript code with syntax highlighting.
@@ -121,3 +121,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+ -->
